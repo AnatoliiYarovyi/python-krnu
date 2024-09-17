@@ -5,7 +5,7 @@ def print_colored_text(text):
 
 # 1
 print_colored_text("task --> 1")
-print("Programming", "***", "Essential","***", "in", "...", "Python")
+print("Programming" + "***" + "Essential" + "***" + "in" + "..." + "Python")
 
 # 2
 print_colored_text("task --> 2")
