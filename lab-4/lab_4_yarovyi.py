@@ -131,6 +131,7 @@ for letter in user_word:
         continue
     else:
       print(letter)
+
 # 10
 print_colored_text("task --> 10")
 
